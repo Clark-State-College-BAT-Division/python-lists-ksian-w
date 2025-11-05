@@ -21,8 +21,11 @@
 
 import random
 
-player_one = [random.randit(1, 50) for i in range (10)]
-player_two = [random.randit(1, 50) for i in range (10)]
+for i range 
+
+
+#player_one = [random.randit(1, 50) for i in range (10)]
+#player_two = [random.randit(1, 50) for i in range (10)]
 
 print("Player One's list",  player_one)
 print("Player Two's list",  player_two)
